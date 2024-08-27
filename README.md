@@ -15,9 +15,6 @@ Welcome to my GitHub profile! I'm an Information Technology student at the **Kal
 ### [Xpence Trakr]
 A responsive expense tracking web app designed to help users manage their finances efficiently.
 
-### [Sorting Visualizer]
-A C++ application using the SDL2 library to visualize various sorting algorithms.
-
 ### [Fake News Detection System]
 An NLP and machine learning project that detects fake news based on text analysis.
 
@@ -41,7 +38,7 @@ When I'm not coding, I enjoy:
 ## 📫 Let's Connect!
 
 - **Email**: tusharatul.career@gmail.com
-- **LinkedIn**: [Atul Tushar](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Atul Tushar](https://www.linkedin.com/in/atul-tushar)
   
 
 I'm always open to collaborating on exciting projects or discussing new ideas, so feel free to reach out!
